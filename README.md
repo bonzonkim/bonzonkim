@@ -1,5 +1,5 @@
 # 강범구, Bumgu Kang
-## Web Developer💻
+## Web Developer/Software Engineer💻
 
 <div align="center">
 
