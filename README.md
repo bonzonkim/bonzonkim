@@ -29,7 +29,7 @@
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k75udaz705fa2fh6evjykafn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3k75udaz705fa2fh6evjykafn&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3k75udaz705fa2fh6evjykafn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3k75udaz705fa2fh6evjykafn&redirect=true)
 ## **About me?**
 <a href="https://bumgu.com" target="_blank">My homepage<a/>  
 <a href="mailto:flrhyme9@gmail.com" target="_blank" >Contact me<a/>  
