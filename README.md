@@ -1,5 +1,5 @@
 # 강범구, Bumgu Kang
-## Web Developer/Software Engineer💻
+## DevOps Engineer/Software Engineer/System Engineer💻
 
 <div align="center">
 
@@ -22,6 +22,7 @@
 <img alt="kubernetes" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" height="28px" />
 <img alt="grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" height="28px" />
 <img alt="prometheus" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="28px" />
+<img alt="ArgoCD" src="https://img.shields.io/badge/Argocd-EF7B4D?&style=for-the-badge&logo=Argo&logoColor=white" height="28px" />
 <img alt="splunk" src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" height="28px" />
 
 ##### Go-To Editor
@@ -36,4 +37,3 @@
 <a href="https://velog.io/@kellyb9/posts" target="_blank">Blog<a/>
 
 <div/>
-
