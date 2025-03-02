@@ -1,5 +1,5 @@
 # 강범구, Bumgu Kang
-## DevOps Engineer/Software Engineer/System Engineer💻
+## SRE | Software Engineer | System Engineer
 
 <div align="center">
 
